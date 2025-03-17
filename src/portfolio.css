@@ -16,7 +16,7 @@ body{
     width: 100vw;
     height: auto;
     display: flex;
-    justify-content: end;
+    /* justify-content: end; */
     position: static;
     /* animation-name: BigToSmall;
     animation-iteration-count: 1;
@@ -24,7 +24,7 @@ body{
 }
 
 #imageDiv{
-    width: 932px;
+    width: 850px;
     height: 812px;
     display: flex;
     align-items: center;
@@ -35,13 +35,11 @@ body{
 }
 
 #nameDiv{
-    width: 996px;
-    height: 500px;
+    width: 970px;
+    height: 812px;
+    padding-top: 300px;
     animation: slideRight 2s ease-out forwards;
-    /* background-color: #181823; */
-    position: absolute;
-    left: 825px;
-    top: 460px;
+    /* position: absolute;
     /* animation: rightSlide 1s; */
 }
 
@@ -49,8 +47,9 @@ body{
     width: 100vw;
     height: 100vh;
     display: flex;
+    align-items: center;
     /* position: relative; */
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 150px;
 }
 
@@ -74,12 +73,12 @@ body{
 }
 
 .project{
-    width: 86%;
+    width: 84%;
     height: auto;
     padding-top: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 40px;
+    /* gap: 40px; */
     margin: auto;
     /* flex-direction: column; */
     /* justify-content: space-between; */
