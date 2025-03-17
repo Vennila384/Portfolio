@@ -26,6 +26,9 @@ body{
 #imageDiv{
     width: 932px;
     height: 812px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #141819;
     animation: slideLeft 2s ease-out forwards;
     /* animation: leftSlide 1s; */
@@ -274,6 +277,48 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+
+#contact{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 40px;
+    border-top: 1px solid white;
+}
+
+.icons{
+    color: white;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+#empId{
+    width: 30%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#corpId{
+    width: 30%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mobileNumber{
+    width: 30%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 .button:hover{
     background-color: #F86840 !important;

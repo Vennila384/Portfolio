@@ -8,6 +8,7 @@ import Skills from './components/Skills.jsx'
 import Header from './components/Header.jsx'
 import OtherProjectHeader from './components/OtherProjectHeader.jsx'
 import OtherProjects from './components/OtherProjects.jsx'
+import Contact from './components/Contact.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -17,6 +18,7 @@ createRoot(document.getElementById('root')).render(
     <Projects/>
     <Skills/>
     <OtherProjects/>
+    <Contact/>
     {/* <OtherProjectHeader/> */}
   </StrictMode>,
 )
