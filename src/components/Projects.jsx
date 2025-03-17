@@ -4,7 +4,7 @@ import Project from "./Project";
 export default function Projects()
 {
     const project1 = [
-        {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"An online meeting is a virtual gathering using the internet.",link:""},
+        {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"An online meeting is a virtual gathering using the internet.",link:"https://github.com/kesavan06/kathaikalaam-online-meeting"},
         {image:"mastermind.png",name:"Mastermind",description:"Mastermind is a game where you guess a secret code using logic.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsProject/masterMind.html"},
         {image:"bookStore.png",name:"Online Book Store",description:"An online bookstore is a website where you can buy books.",link:"https://github.com/Vennila384/OnlineBookStore"},
         // {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"",link:""},

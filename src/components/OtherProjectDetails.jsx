@@ -11,7 +11,7 @@ export default function OtherProjectDetails({skill,setSkill})
     ]
 
     const reactProject = [
-        {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"An online meeting is a virtual gathering using the internet.",link:""}
+        {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"An online meeting is a virtual gathering using the internet.",link:"https://github.com/kesavan06/kathaikalaam-online-meeting"}
     ]
 
     const javaProject = [
