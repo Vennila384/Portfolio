@@ -6,6 +6,8 @@ export default function OtherProjectDetails({skill,setSkill})
     const jsProject = [
         {image:"rock_paper_scissor.png",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment023/game.html"},
         {image:"mastermind.png",name:"Mastermind",description:"Mastermind is a game where you guess a secret code using logic.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsProject/masterMind.html"},
+        {image:"tipCalculator.png",name:"Tip Calculator",description:"A tip calculator helps you calculate the tip amount.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment024/tip.html"},
+        {image:"calculator.png",name:"Calculator",description:"A calculator is a tool for solving math problems.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment021/calculator.html"}
     ]
 
     const reactProject = [
@@ -17,11 +19,20 @@ export default function OtherProjectDetails({skill,setSkill})
     ]
 
     const scratchProject = [
-        {image:"quiz.png",description:"A quiz application is a fun game with many categories where you answer questions.",link:"https://scratch.mit.edu/projects/1041097324"}
+        {image:"quiz.png",description:"A quiz application is a fun game with many categories where you answer questions.",link:"https://scratch.mit.edu/projects/1041097324"},
+        {image:"spiral.png",description:"Spiral drawing is an art technique that creates curved, looping patterns.",name:"Spiral Drawing",link:"https://scratch.mit.edu/projects/1030484448"},
+        {image:"calendar.png",description:"A day finder is a tool that tells you the day of the week for any date.",name:"Day Finder",link:"https://scratch.mit.edu/projects/1034779853"},
+        // {image:"",description:"",name:"Drawing Shapes",link:"https://scratch.mit.edu/projects/1035635393"},
+        {image:"guess-the-number.png",description:"Guess the Number is a game where you try to find a hidden number with hints.",name:"Guess the Number",link:"https://scratch.mit.edu/projects/1028896818"}
     ]
 
     const htmlProject = [
-        {image:"breezy.png",description:"Breezy.hr is a website for hiring and managing job applications.",link:"https://vennilavennila-6404-8443.zcodeusers.in/htmlproject/main.html"}
+        {image:"breezy.png",description:"Breezy.hr is a website for hiring and managing job applications.",link:"https://vennilavennila-6404-8443.zcodeusers.in/htmlproject/main.html"},
+        {image:"vortex.jpg",description:"Vortex by Pixelarity",link:"https://vennilavennila-6404-8443.zcodeusers.in/Assignment015/page1.html"},
+        {image:"magnetic.jpg",description:"Magnetic by Pixelarity",link:"https://vennilavennila-6404-8443.zcodeusers.in/Assignment010/magnetic.html"},
+        {image:"cascade.jpg",description:"Cascade by Pixelarity",link:"https://vennilavennila-6404-8443.zcodeusers.in/Assignment018/page2.html"},
+        {image:"hyperspace.jpg",description:"Hyperspace is a sleek and modern website template designed for startups and businesses.",link:"https://vennilavennila-6404-8443.zcodeusers.in/Assignment019/page1.html"},
+        {image:"3d.png",description:"A 3D rotating cube is an effect where a cube spins, showing family photos on its sides.",link:"https://vennilavennila-6404-8443.zcodeusers.in/Assignment022/cube.html"}
     ]
 
     return(

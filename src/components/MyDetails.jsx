@@ -13,7 +13,7 @@ export default function MyDetails()
                     <h1 style={{fontSize:"70px"}}>A Frontend Developer</h1>
                 </div>
             </div>
-            <div id="bgDiv"></div>
+            {/* <div id="bgDiv"></div> */}
         </div>
         // <div className="container">
         //     <div className="left-div">Left Side</div>

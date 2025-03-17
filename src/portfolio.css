@@ -29,7 +29,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #141819;
+    /* background-color: #141819; */
     animation: slideLeft 2s ease-out forwards;
     /* animation: leftSlide 1s; */
 }
@@ -65,7 +65,7 @@ body{
 #projects{
     width: 100vw;
     height: auto;
-    padding-top: 150px;
+    /* padding-top: 150px; */
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -181,7 +181,7 @@ body{
     z-index: 1;
     background-color: #181823bd;
     backdrop-filter: blur(3px);
-    padding: 0px 10px 0px 10px;
+    padding: 0px 100px 0px 100px;
 }
 
 #name{
@@ -214,7 +214,7 @@ body{
 
 #otherProjectImage{
     width: 300px;
-    height: 200px;
+    height: 220px;
     /* border-radius: 12px; */
 }
 
@@ -286,6 +286,7 @@ body{
     justify-content: space-between;
     padding-left: 20px;
     padding-right: 40px;
+    margin-top: 50px;
     border-top: 1px solid white;
 }
 
