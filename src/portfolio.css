@@ -37,7 +37,7 @@ body{
 #nameDiv{
     width: 970px;
     height: 812px;
-    padding-top: 300px;
+    padding-top: 280px;
     animation: slideRight 2s ease-out forwards;
     /* position: absolute;
     /* animation: rightSlide 1s; */
@@ -267,7 +267,7 @@ body{
 }
 
 #headerDetails{
-    width: 20%;
+    width: 27%;
     height: 80px;
     display: flex;
     justify-content: space-between;

@@ -11,6 +11,7 @@ export default function Header()
                 <a href="#wholeDiv"><p style={{fontSize:"18px"}}>Home</p></a>
                 <a href="#projects"><p style={{fontSize:"18px"}}>Projects</p></a>
                 <a href="#skills"><p style={{fontSize:"18px"}}>Skills</p></a>
+                <a href="#other_project"><p style={{fontSize:"18px"}}>Other projects</p></a>
             </div>
         </div>
     )
