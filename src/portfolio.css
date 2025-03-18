@@ -171,8 +171,15 @@ body{
     align-items: center;
 }
 
-.skillDiv{
+.skillDiv1{
     width:1250px;
+    height:90px;
+    display:flex;
+    justify-content:space-between
+}
+
+.skillDiv2{
+    width:930px;
     height:90px;
     display:flex;
     justify-content:space-between
