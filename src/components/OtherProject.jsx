@@ -10,6 +10,7 @@ export default function OtherProject({image,description,link,name})
             </div>
             <a href={link} target="_blank">
                 <div id="otherProjectDescription">
+                    <h3>{name}</h3>
                     <p>{description}</p>
                 </div>
             </a>

@@ -5,7 +5,7 @@ export default function Project({src,name,description,link})
     return(
         <div id="singleProject">
             <div id="projectImage">
-                <img src={src} style={{width:"875px",height:"430px"}}/>
+                <img src={src} style={{width:"430px",height:"430px"}}/>
             </div>
             <div id="projectDetail">
                 <center>
