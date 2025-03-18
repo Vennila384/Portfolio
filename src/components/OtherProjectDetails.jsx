@@ -13,21 +13,20 @@ export default function OtherProjectDetails({skill,setSkill})
 
     const reactProject = [
         {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"An online meeting is a virtual gathering using the internet.",link:"https://github.com/kesavan06/kathaikalaam-online-meeting"},
-        {image:"game.png",name:"Rock Paper Scissors",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://github.com/Vennila384/rock-paper-scissor"},
-        {image:"https://img.freepik.com/free-vector/solar-system-background_1284-12725.jpg",name:"Solar System",description:"A solar system website is a site that provides information about the planets.",link:"https://github.com/Vennila384/solar_system"}
-        // {image:"",name:""}
+        {image:"game.png",name:"Rock Paper Scissors",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://rock-paper-scissor-1-opku.onrender.com/"},
+        {image:"https://img.freepik.com/free-vector/solar-system-background_1284-12725.jpg",name:"Solar System",description:"A solar system website is a site that provides information about the planets.",link:"https://solar-system-lmy9.onrender.com/"},
+        {image:"recording.png",name:"Screen Recorder",description:"A screen recorder extension is a browser add-on that records your screen.",link:"https://github.com/Vennila384/extension"}
     ]
 
     const javaProject = [
         {image:"bookStore.png",name:"Online book store",description:"An online bookstore is a website where you can buy books.",link:"https://github.com/Vennila384/OnlineBookStore"},
-        // {image:"carRental.jpg",name:"Car Rental System",description:"A car rental system is a platform for booking and managing rental cars.",link:""}
+        {image:"https://happay.com/blog/wp-content/uploads/sites/12/2022/09/baas-banking-as-a-service-.png",name:"Bank Application",description:"A simple bank application helps you check balances, transfer money, and manage accounts.",link:"https://github.com/Vennila384/BankAccount"}
     ]
 
     const scratchProject = [
         {image:"quiz.png",description:"A quiz application is a fun game with many categories where you answer questions.",name:"Quiz",link:"https://scratch.mit.edu/projects/1041097324"},
         {image:"spiral.png",description:"Spiral drawing is an art technique that creates curved, looping patterns.",name:"Spiral Drawing",link:"https://scratch.mit.edu/projects/1030484448"},
         {image:"calendar.png",description:"A day finder is a tool that tells you the day of the week for any date.",name:"Day Finder",link:"https://scratch.mit.edu/projects/1034779853"},
-        // {image:"",description:"",name:"Drawing Shapes",link:"https://scratch.mit.edu/projects/1035635393"},
         {image:"guess-the-number.png",description:"Guess the Number is a game where you try to find a hidden number with hints.",name:"Guess the Number",link:"https://scratch.mit.edu/projects/1028896818"}
     ]
 

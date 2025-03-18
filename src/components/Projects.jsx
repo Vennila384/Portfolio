@@ -8,7 +8,7 @@ export default function Projects()
         {image:"https://media.istockphoto.com/id/1365264688/vector/weather-forecast-meteorology-widget-app-interface.jpg?s=612x612&w=0&k=20&c=OSQHTnpLnK_p5jpyJ3i1hU7CWPSDUV_9JV69WqANgYk=",name:"Weather Report",description:"A weather forecast is a report that tells you the daily weather conditions.",link:"https://vennila-weather-report.netlify.app/"},
         {image:"mastermind.png",name:"Mastermind",description:"Mastermind is a game where you guess a secret code using logic.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsProject/masterMind.html"},
         {image:"bookStore.png",name:"Online Book Store",description:"An online bookstore is a website where you can buy books.",link:"https://github.com/Vennila384/OnlineBookStore"},
-        {image:"game.png",name:"Rock Paper Scissors",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://github.com/Vennila384/rock-paper-scissor"},
+        {image:"game.png",name:"Rock Paper Scissors",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://rock-paper-scissor-1-opku.onrender.com/"},
         // {image:"onlinemeeting.jpg",name:"Kathaikalaam",description:"",link:""},
     ]
 
