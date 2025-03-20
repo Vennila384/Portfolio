@@ -4,7 +4,7 @@ import OtherProject from "./OtherProject"
 export default function OtherProjectDetails({skill,setSkill})
 {
     const jsProject = [
-        {image:"rock_paper_scissor.png",name:"Rock Paper Scissor",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment023/game.html"},
+        {image:"rock_paper_scissor.png",name:"Rock Paper Scissors",description:"Rock Paper Scissors is a game where you choose rock, paper, or scissors to win.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment023/game.html"},
         {image:"mastermind.png",name:"Mastermind",description:"Mastermind is a game where you guess a secret code using logic.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsProject/masterMind.html"},
         {image:"tipCalculator.png",name:"Tip Calculator",description:"A tip calculator helps you calculate the tip amount.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment024/tip.html"},
         {image:"calculator.png",name:"Calculator",description:"A calculator is a tool for solving math problems.",link:"https://vennilavennila-6404-8443.zcodeusers.in/jsAssignment021/calculator.html"},
